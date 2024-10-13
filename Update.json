@@ -1,5 +1,6 @@
 {
     "com.example.testing": {
+        "credits": "@TRUMods",
         "showDialog": true,
         "title": "Mod By TRUMods",
         "message": "https://raw.githubusercontent.com/SaluGarg/Testing/refs/heads/main/Update.html",
@@ -8,7 +9,7 @@
         "NegativeButtonUrl": "Hai",
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
-        "maxShowCount": 3,
+        "maxShowCount": 9,
         "controlByShowCount": false,
  
         "updateConfig": {
