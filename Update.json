@@ -1,7 +1,7 @@
 {
     "com.example.testing": {
         "showDialog": true,
-        "title": "Mod by @kafuHex",
+        "title": "Mod By TRUMods",
         "message": "https://raw.githubusercontent.com/SaluGarg/Testing/refs/heads/main/Update.html",
         "showNegativeButton": true,
         "NegativeButtonText": "Join Channel",
@@ -15,7 +15,7 @@
             "updateMonitor": false,
             "requiredVersion": "9999",
             "requiredVersionCode": 126,
-            "title": "Mod by @kafuHex",
+            "title": "Mod By TRUMods",
             "message": "https://raw.githubusercontent.com/Paste your HTML path",
             "showNegativeButton": true,
             "NegativeButtonText": "test update",
