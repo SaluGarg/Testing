@@ -15,11 +15,11 @@
             "updateMonitor": false,
             "requiredVersion": "9999",
             "requiredVersionCode": 126,
-            "title": "Mod by @kafuHex",
+            "title": "Modded By TRUMods 👻",
             "message": "https://raw.githubusercontent.com/Paste your HTML path",
             "showNegativeButton": true,
             "NegativeButtonText": "test update",
-            "NegativeButtonUrl": "https://t.me/TheHiddenFools",
+            "NegativeButtonUrl": "https://t.me/trumods",
             "showPositiveButton": true,
             "positiveButtonText": "Maybe Later"
         }
