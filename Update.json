@@ -1,5 +1,6 @@
 {
     "com.example.testing": {
+        "credits": "@KafuHex",
         "showDialog": true,
         "title": "Modded By TRUMods 👻",
         "message": "https://raw.githubusercontent.com/SaluGarg/Testing/refs/heads/main/Update.html",
