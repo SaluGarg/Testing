@@ -13,10 +13,10 @@
  
         "updateConfig": {
             "updateMonitor": true,
-            "requiredVersion": "9999",
+            "requiredVersion": "9999999",
             "requiredVersionCode": 126,
             "title": "Mod By TRUMods",
-            "message": "hi",
+            "message": "https://github.com/SaluGarg/Testing/blob/main/Update.json hi",
             "showNegativeButton": true,
             "NegativeButtonText": "test update",
             "NegativeButtonUrl": "https://t.me/TheHiddenFools",
